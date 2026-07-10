@@ -2,10 +2,12 @@ body {
 background-image: url('../img/fondo.png');
 }
 
-.contenido-principal {
-    display: block; 
-    color: cadetblue;
-    width: 300px;
-    height: 150px;
-    margin: auto;
+.contenedor-principal {
+    max-width: 1200px;
+    width: 90%;
+    margin: 2rem 0;
+    background-color: aquamarine;
+    box-sizing: border-box;
+    border-radius: 8px;
+    box-shadow: 0px 4px 20 px rgba(0, 0, 0, 0.2);
 }
