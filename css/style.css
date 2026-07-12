@@ -139,3 +139,16 @@ footer {
     text-align: left;
 
 }
+
+.columna6 {
+
+    margin: 5rem 0;
+    background-color: bisque;
+    border-radius: 4px;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.2);
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+}
